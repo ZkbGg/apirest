@@ -1,9 +1,9 @@
 {
     "conexion":{
-        "server" : "localhost",
-        "user" : "root",
-        "password" : "",
-        "database" : "apirest",
-        "port": "3307"
+        "server" : "us-cdbr-east-06.cleardb.net",
+        "user" : "b496d6fc0ba7c1",
+        "password" : "b591c278",
+        "database" : "heroku_425c7b2441d0c77",
+        "port": "3306"
     }
 }
