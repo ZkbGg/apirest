@@ -1,4 +1,5 @@
 <?php
+header ("Access-Control-Allow-Origin: *");
 require_once 'conexion/conexion.php';
 require_once 'respuestas.class.php';
 
